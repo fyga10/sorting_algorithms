@@ -8,8 +8,8 @@
  * struct listint_s - Doubly linked list node
  *
  * @n: Integer in the node
- * @prev: Pointer to the previous element
- * @next: Pointer to the next element
+ * @prev: Pointer to the previous element.
+ * @next: Pointer to the next element.
  */
 typedef struct listint_s
 {
