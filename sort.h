@@ -29,4 +29,4 @@ void swap_back(listint_t **head, listint_t *to_swap);
 
 void selection_sort(int *array, size_t size);
 
-#endif 
+#endif
